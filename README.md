@@ -2,7 +2,7 @@
   <img width="150" src="/logo.png">
 </p>
 
-# MissaoExoplaneta V1.0.0 💻
+# MissaoExoplaneta beta V1.0.0 💻
 Conhecer e aprender astronomia de forma simples e dinâmica
 
 ## Sobre
