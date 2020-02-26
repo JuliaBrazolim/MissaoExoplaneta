@@ -47,7 +47,7 @@ Por enquanto, o conteúdo do aplicativo só está disponível em português-Bras
 
 ## Author
 
-* **Julia Brazolim** - *Initial work* - [Julia Braazolim](https://github.com/JuliaBrazolim)
+* **Julia Brazolim** - *Initial work* - [Julia Brazolim](https://github.com/JuliaBrazolim)
 
 ### Redes sociais
 
