@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Missão Exoplaneta</title>
+    <meta charset="UTF-8">
+    <!-- Bootstrap 4 Core -->
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Styles for the template  -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Catamaran|Orbitron" rel="stylesheet">
+
+    <!-- Estilo da Tela de Abertua -->
+    <style type="text/css">
+     html,body {
+        background-color:#000;
+        overflow-x: block;
+        font-family:'Catamaran', sans-serif;
+        color:#fff;
+     }
+
+     h1 {
+       font-family: 'Orbitron', sans-serif;
+     }
+    </style>
+  </head>
+  <body>
+    <section>
+      <center>
+        <img style="width:300px;" src="img/logo1.gif">
+        <h1>Missão Exoplaneta</h1>
+        <h3>Conhecer e aprender astronomia de forma simples e dinâmica</h3>
+        <p>Versão 1.0.0 beta</p>
+        <br><br>
+        <a href="menu.html">
+          <button type="button" class="btn btn-outline-light">Começar</button>
+        </a>
+      </center>
+    </section>
+
+    <!-- Footer -->
+    <div class="col-sm" style="bottom:-100px;">
+        <span class="text-muted">Desenvolvido com ❤ por
+          <a style="color:#9edb43;" href="https://juliabrazolim.github.io/">Julia Brazolim</a>
+          </span>
+    </div>
+    <!-- Footer -->
+
+    <script>
+      // You can also require other files to run in this process
+      require('./renderer.js')
+    </script>
+    <!--jQuery -->
+    <script>
+      window.jQuery = window.$ = require('jquery');
+    </script>
+    <!-- <script src="../node_modules/jquery/dist/jquery.js"></script> -->
+    <!--jQuery -->
+    <script src="../node_modules/popper.js/dist/umd/popper.js"></script>
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.js"></script>
+  </body>
+</html>
