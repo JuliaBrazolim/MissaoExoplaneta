@@ -2,15 +2,19 @@
   <img width="150" src="/logo.png">
 </p>
 
-# MissaoExoplaneta
+# MissaoExoplaneta V1.0.0 💻
 Conhecer e aprender astronomia de forma simples e dinâmica
 
 ## Sobre
 Essa é a primeira versão - beta - do app Missão Exoplaneta do projeto de mesmo nome. O app é voltado para desktop (computadores, notebook, etc). Nele, é possível acessar conteúdos que apresentam um pouco sobre os corpos celestes do Universo e por enquanto, vau dar prioridade para apresentar os planetas do nosso Sistema Solar, algumas de suas luas e uma breve introdução sobre exoplanetas.
 Tudo sobre o projeto no site oficial: [https://www.missaoexoplaneta.com.br]
 
+<br>
+<p align="center">
+  <img width="350" src="/mck1.png">
+</p>
 
-### Características principais
+### Características principais 📖
 <ul>
   <li>Conteúdos simplificados em formato de textos, animações e ilustrações</li>
   <li>Planetas do Sistema Solar</li>
@@ -30,7 +34,7 @@ Você pode [baixar aqui](https://www.missaoexoplaneta.com.br) a versão beta ins
 Baixe o arquivo .exe, abra e clique no botão Instalar. Se for o caso, escolha o local onde ficará o app. Ex: desktop.
 
 ### Como usar
-O aplicativo se assemelha a páginas da web, ou seja, é como navegar em um site. Geralmente textos na cor amarela indicam que são links ou informações importantes. Textos em rosa, são destaques. Escolha um dos temas (em botões) e explore os conteúdos.
+Ao abrir o aplicativo, leva em torno de 10 a 15 segundos para abrir o menu. Todo o aplicativo se assemelha a páginas da web, ou seja, é como navegar em um site. Geralmente textos na cor amarela indicam que são links ou informações importantes. Textos em rosa, são destaques. Escolha um dos temas (em botões) e explore os conteúdos.
 
 ### Pré-requisitos
 Seu sistema ser Windows e ter conexão com a internet. Isso porque o aplicativo se conecta com o Google Fonts e deixa o layout bonitinho. Ah é, também se conecta a internet com o Google Podcasts e ao Typeform.
