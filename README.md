@@ -28,8 +28,8 @@ Tudo sobre o projeto no site oficial: [https://www.missaoexoplaneta.com.br]
 </ul>
 
 ### Apoie o projeto 💜
-<a href="https://apoia.se/missaoexoplaneta"><p align="center">
-  <img width="350" src="https://i.imgur.com/tW794Q9.png">
+<a href="https://apoia.se/missaoexoplaneta"><p align="left">
+  <img width="150" src="https://i.imgur.com/tW794Q9.png">
 </p></a>
 
 
