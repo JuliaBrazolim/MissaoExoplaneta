@@ -5,7 +5,7 @@
 # MissaoExoplaneta beta V1.0.0 💻
 Conhecer e aprender astronomia de forma simples e dinâmica
 
-## Sobre
+## Sobre 🌌
 Essa é a primeira versão - beta - do app Missão Exoplaneta do projeto de mesmo nome. O app é voltado para desktop (computadores, notebook, etc). Nele, é possível acessar conteúdos que apresentam um pouco sobre os corpos celestes do Universo e por enquanto, vau dar prioridade para apresentar os planetas do nosso Sistema Solar, algumas de suas luas e uma breve introdução sobre exoplanetas.
 Tudo sobre o projeto no site oficial: [https://www.missaoexoplaneta.com.br]
 
@@ -27,7 +27,13 @@ Tudo sobre o projeto no site oficial: [https://www.missaoexoplaneta.com.br]
   <li>Conteúdo em português</li>
 </ul>
 
-## Getting Started
+### Apoie o projeto 💜
+<a href="https://apoia.se/missaoexoplaneta"><p align="center">
+  <img width="350" src="https://i.imgur.com/tW794Q9.png">
+</p></a>
+
+
+## Download
 Você pode [baixar aqui](https://www.missaoexoplaneta.com.br) a versão beta instalável mais recente do aplicativo Missão Exoplaneta para Windows.
 
 ### Instalando
