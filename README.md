@@ -7,6 +7,7 @@ Conhecer e aprender astronomia de forma simples e dinâmica
 
 ## Sobre
 Essa é a primeira versão - beta - do app Missão Exoplaneta do projeto de mesmo nome. O app é voltado para desktop (computadores, notebook, etc). Nele, é possível acessar conteúdos que apresentam um pouco sobre os corpos celestes do Universo e por enquanto, vau dar prioridade para apresentar os planetas do nosso Sistema Solar, algumas de suas luas e uma breve introdução sobre exoplanetas.
+Tudo sobre o projeto no site oficial [https://www.missaoexoplaneta.com.br] (www.missaoexoplaneta.com.br)
 
 
 ### Características principais
@@ -51,8 +52,8 @@ Por enquanto, o conteúdo do aplicativo só está disponível em português-Bras
 
 ### Redes sociais
 
-[Twitter](https://twitter.com/JuliaBrazolim)
-[Twitter](https://twitter.com/missao_exo)
+Author: [@JuliaBrazolim](https://twitter.com/JuliaBrazolim)
+Project: [@missao_exo](https://twitter.com/missao_exo)
 
 
 ## License
