@@ -34,7 +34,7 @@ Tudo sobre o projeto no site oficial: [https://www.missaoexoplaneta.com.br]
 
 
 ## Download
-Você pode [baixar aqui](https://www.missaoexoplaneta.com.br) a versão beta instalável mais recente do aplicativo Missão Exoplaneta para Windows.
+Você pode [baixar aqui](https://github.com/JuliaBrazolim/MissaoExoplaneta/releases) a versão beta instalável mais recente do aplicativo Missão Exoplaneta para Windows.
 
 ### Instalando
 Baixe o arquivo .exe, abra e clique no botão Instalar. Se for o caso, escolha o local onde ficará o app. Ex: desktop.
