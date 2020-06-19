@@ -53,11 +53,12 @@ Seu sistema ser Windows e ter conexão com a internet. Isso porque o aplicativo 
 ### Acessibilidade
 Por enquanto, os recursos de acessibilidade estão bem ruins. Estou trabalhando para melhorar e na próxima versão tudo funcionar certinho.
 
-### Linguagem
+### Idioma
 Por enquanto, o conteúdo do aplicativo só está disponível em português-Brasil
 
 ## Construído com
 
+* HTML5, CSS3 e javaScript (+ uso do Node.js)
 * [Electron](http://www.dropwizard.io/1.0.2/docs/) - Framework para construção de apps para desktops
 * [Bootstrap](https://getbootstrap.com/) - Um framework web responsivo
 
