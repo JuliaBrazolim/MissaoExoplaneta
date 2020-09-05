@@ -2,7 +2,7 @@
   <img width="150" src="/logo.png">
 </p>
 
-# MissaoExoplaneta beta V1.0.0 💻
+# MissaoExoplaneta beta 💻
 Conhecer e aprender astronomia de forma simples e dinâmica
 
 ## Sobre 🌌
@@ -30,7 +30,6 @@ Tudo sobre o projeto no site oficial: [https://www.missaoexoplaneta.com.br]
 
 ## 🕷 BUGS
 - Ao iniciar o app aparece durante poucos segundos uma tela branca
-- O link para o Apoia.se está quebrado e abre no lugar uma tela branca
 
 ### Apoie o projeto 💜
 <a href="https://apoia.se/missaoexoplaneta"><p align="left">
