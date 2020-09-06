@@ -27,6 +27,10 @@ Tudo sobre o projeto no site oficial: [https://www.missaoexoplaneta.com.br]
   <li>Conteúdo em português</li>
 </ul>
 
+## Versões
+
+📢 Nova versão disponível: <a href="https://github.com/JuliaBrazolim/MissaoExoplaneta/releases/tag/v1.0-beta.1">beta 1.0.1</a>
+- Versão anterior: <a href="https://github.com/JuliaBrazolim/MissaoExoplaneta/releases/tag/v1.0-beta.0">beta 1.0.0</a>
 
 ## 🕷 BUGS
 - Ao iniciar o app aparece durante poucos segundos uma tela branca
