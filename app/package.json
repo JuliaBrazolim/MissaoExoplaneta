@@ -1,0 +1,26 @@
+{
+  "name": "exoplanetapp",
+  "version": "1.0.1",
+  "description": "Conhecer e explorar o Universo de forma simples e dinâmica",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "author": "Julia Brazolim",
+  "license": "MIT",
+  "build": {
+    "asar": "true",
+    "productName": "Missão Exoplaneta"
+  },
+  "devDependencies": {
+    "electron": "^10.1.1",
+    "electron-builder": "^22.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
