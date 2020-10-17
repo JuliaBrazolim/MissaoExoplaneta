@@ -66,9 +66,7 @@ Por enquanto, o conteúdo do aplicativo só está disponível em português-Bras
 * [Bootstrap](https://getbootstrap.com/) - Um framework web responsivo
 
 ## Author
-<p align="center">
-  <img width="150" src="github-oct.PNG">
-</p>
+  <img width="250" src="github-oct.PNG">
 * **Julia Brazolim** - *Initial work* - [Julia Brazolim](https://github.com/JuliaBrazolim)
 
 ### Redes sociais
