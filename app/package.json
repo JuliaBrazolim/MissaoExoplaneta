@@ -15,7 +15,7 @@
     "productName": "Missão Exoplaneta"
   },
   "devDependencies": {
-    "electron": "^10.1.2",
+    "electron": "^13.6.6",
     "electron-builder": "^22.8.0"
   },
   "dependencies": {
